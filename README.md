@@ -77,13 +77,13 @@ Open [http://localhost:3000](http://localhost:3000) with your browser.
 ## 📸 Screenshots
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="https://imgur.com/68qXFII.png" height="400" alt="Screenshot 1" />
-  <img src="https://imgur.com/qOwKuGb.png" height="400" alt="Screenshot 2" />
-  <img src="https://imgur.com/1gnkXUk.png" height="400" alt="Screenshot 3" />
-  <img src="https://imgur.com/YVBDBWl.png" height="400" alt="Screenshot 4" />
-  <img src="https://imgur.com/A387Wi9.png" height="400" alt="Screenshot 5" />
-  <img src="https://imgur.com/yiVHPrK.png" height="400" alt="Screenshot 6" />
-  <img src="https://imgur.com/oUIJWkC.png" height="400" alt="Screenshot 7" />
+  <img src="https://i.imgur.com/hXxRatf.png" height="400" alt="Screenshot 1" />
+  <img src="https://i.imgur.com/wfhV8Me.png" height="400" alt="Screenshot 2" />
+  <img src="https://i.imgur.com/Se9mKE7.png" height="400" alt="Screenshot 3" />
+  <img src="https://i.imgur.com/N01cQzJ.png" height="400" alt="Screenshot 4" />
+  <img src="https://i.imgur.com/JSx9RqF.png" height="400" alt="Screenshot 5" />
+  <img src="https://i.imgur.com/8q3q3FW.png" height="400" alt="Screenshot 6" />
+  <img src="https://i.imgur.com/xgIaBjX.png" height="400" alt="Screenshot 7" />
 </div>
 
 ## 🤝 Contributing
