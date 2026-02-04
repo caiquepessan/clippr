@@ -74,6 +74,18 @@ Open [http://localhost:3000](http://localhost:3000) with your browser.
 - **Dashboard**: Management interface for barbershops (Web).
 - **Responsive Design**: Optimized for both mobile and desktop users.
 
+## 📸 Screenshots
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="https://imgur.com/68qXFII.png" height="400" alt="Screenshot 1" />
+  <img src="https://imgur.com/qOwKuGb.png" height="400" alt="Screenshot 2" />
+  <img src="https://imgur.com/1gnkXUk.png" height="400" alt="Screenshot 3" />
+  <img src="https://imgur.com/YVBDBWl.png" height="400" alt="Screenshot 4" />
+  <img src="https://imgur.com/A387Wi9.png" height="400" alt="Screenshot 5" />
+  <img src="https://imgur.com/yiVHPrK.png" height="400" alt="Screenshot 6" />
+  <img src="https://imgur.com/oUIJWkC.png" height="400" alt="Screenshot 7" />
+</div>
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
